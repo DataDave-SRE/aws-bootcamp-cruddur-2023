@@ -1,11 +1,14 @@
 # Week 0 — Billing and Architecture
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## Image and link for logical model
 
 =======
 # Week 0 — Billing and Architecture
 
+=======
+>>>>>>> 2dca0c5c4453ddcb58fa2c7632189afbd632d400
 ## Image and link for logical model
 >>>>>>> bce2b930a5ab46cf1f02bfb2ea9c0e5bd6cfd175
 https://lucid.app/lucidchart/3e723134-ebc6-4d31-b5fc-45ededf4f2eb/edit?viewport_loc=-391%2C-238%2C3131%2C2378%2C0_0&invitationId=inv_39290665-adaa-49d4-adf3-ec1cabeb1b61
