@@ -1,7 +1,5 @@
 # Week 0 — Billing and Architecture
 
-# Week 0 — Billing and Architecture
-
 ## Image and link for logical model
 https://lucid.app/lucidchart/3e723134-ebc6-4d31-b5fc-45ededf4f2eb/edit?viewport_loc=-391%2C-238%2C3131%2C2378%2C0_0&invitationId=inv_39290665-adaa-49d4-adf3-ec1cabeb1b61
 image.png
