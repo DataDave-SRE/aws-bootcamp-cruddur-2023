@@ -16,7 +16,7 @@ https://lucid.app/lucidchart/3e723134-ebc6-4d31-b5fc-45ededf4f2eb/edit?viewport_
 
 https://lucid.app/lucidchart/e6e28418-2ddc-4202-a084-6082868cbd04/edit?viewport_loc=2%2C-485%2C2087%2C1585%2C0_0&invitationId=inv_0a8a237f-4679-4a19-a785-4d4397ec5c71
 
-![Conceptual Model Napkin Image Lucid](assets/week0-Conceptual_Model-Lucid.png)
+![Conceptual Model Napkin Image Lucid](assets/week0-Conceptual_model-Lucid.png)
 
 ## Image of the WSL version
 
